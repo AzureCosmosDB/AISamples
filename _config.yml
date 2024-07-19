@@ -1,6 +1,6 @@
 # Site settings
 title: Azure Cosmos DB AI Samples
-email: your-email@example.com
+email: mjbrown@microsoft.com
 description: This is our central list of all of our Generative AI samples for Azure Cosmos DB.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://azurecosmosdb.github.io/AISamples/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,8 @@ github_username:  markjbrown
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+  theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
