@@ -26,3 +26,8 @@ Central hub for demos, code snippets, and other assets for Azure Cosmos DB for A
     - Jupyter Notebook
     - Python
     - [Sample App](https://github.com/AzureCosmosDB/Fabric-Conf-2024-Build-AI-Apps)
+- Cosmic RAG Food app with Langchain, Azure OpenAI and Azure Cosmos DB for MongoDB (vCore)
+    - A Demo application for a streamlined ordering system tailored for various food categories. It allows users to request customized meals, such as "high protein dishes," with recommendations provided from our database. Users can further customize their choices before sending their orders from the app to the restaurant, including delivery details.
+    - Jupyter Notebook
+    - Web app
+    - [Code](https://github.com/Azure-Samples/Cosmic-Food-RAG-app)
