@@ -31,3 +31,9 @@ Central hub for demos, code snippets, and other assets for Azure Cosmos DB for A
     - Jupyter Notebook
     - Web app
     - [Code](https://github.com/Azure-Samples/Cosmic-Food-RAG-app)
+- Ad-gen (Azure OpenAI and Azure Cosmos DB for MongoDB (vCore))
+    - This project demonstrates the use of Azure Cosmos DB for MongoDB vCore's vector similarity search and OpenAI embeddings to generate advertising content aimed at boosting sales. It is particularly tailored for a shoe retailer looking to leverage recent trends for effective advertising.
+    - Jupyter Notebook
+    - Web app
+    - [Code](https://aka.ms/adgen)
+ 
