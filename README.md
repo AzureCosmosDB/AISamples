@@ -36,4 +36,16 @@ Central hub for demos, code snippets, and other assets for Azure Cosmos DB for A
     - Jupyter Notebook
     - Python gradio
     - [Code](https://aka.ms/adgen)
- 
+
+- Langchain integration with Azure Cosmos DB for MongoDB (vCore)
+    - This sample shows ingesting PDF's into Azure Cosmos DB for MongoDB (vCore) and doing vector similarity search (RAG Pattern) using Langchain.
+    - Jupyter Notebook
+    - Python gradio
+    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-MongoDB-vCore-Integrations/LangChain-CosmosDBMongovCoreVectorSearch-AzureOpenAI.ipynb)
+
+- Langchain integration with Azure Cosmos DB for NoSQL
+    - - This sample shows ingesting PDF's into Azure Cosmos DB for NoSQL and doing vector similarity search (RAG Pattern) using Langchain.
+    - Jupyter Notebook
+    - Python gradio
+    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-NoSQL-Integrations/LangChain-CosmosDBNoSQL-AzureOpenAI.ipynb)
+
