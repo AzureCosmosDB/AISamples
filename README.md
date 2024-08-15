@@ -100,6 +100,10 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
     - Gradio
     - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-MongoDB-vCore-Integrations/LangChain-CosmosDBMongovCoreVectorSearch-AzureOpenAI.ipynb)
 
+- CosmosAIGraph: AI-Powered Graph and Knowledge Graph Solutions with Azure Cosmos DB
+  - Python
+  - [Code](https://github.com/cjoakim/CosmosAIGraph)
+  
 ## Videos
 
 **Azure Cosmos DB for NoSQL**
