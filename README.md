@@ -9,16 +9,22 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 **Introduction**
 
 - [What is a vector database?](https://learn.microsoft.com/azure/cosmos-db/vector-database)
-- [Vector Search in Azure Cosmos DB for NoSQL](https://learn.microsoft.com/azure/cosmos-db/nosql/vector-search)
-- [Vector Search in Azure Cosmos DB for MongoDB](https://learn.microsoft.com/azure/cosmos-db/mongodb/vcore/vector-search)
 - [Concepts Overview](https://learn.microsoft.com/azure/cosmos-db/gen-ai/vector-search-overview)
 
-**Getting started**
+**Azure Cosmos DB for NoSQL**
 
-- [C#](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-dotnet-vector-index-query)
-- [Python](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-python-vector-index-query)
-- [JavaScript](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-javascript-vector-index-query)
-- [Java](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-java-vector-index-query)
+- [Vector Search in Azure Cosmos DB for NoSQL](https://learn.microsoft.com/azure/cosmos-db/nosql/vector-search)
+- [Vector Indexing](https://learn.microsoft.com/azure/cosmos-db/index-policy#vector-indexes)
+- [Managing Vector Indexes](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-manage-indexing-policy?tabs=dotnetv3%2Cpythonv3#vector-indexing-policy-examples)
+- How to get started [C#](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-dotnet-vector-index-query), [Python](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-python-vector-index-query), [JavaScript](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-javascript-vector-index-query), [Java](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-java-vector-index-query)
+
+**vCore-based Azure Cosmos DB for MongoDB**
+
+- [Vector Search ](https://learn.microsoft.com/azure/cosmos-db/mongodb/vcore/vector-search)
+- [RAG Example](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/rag)
+
+
+
 
 ## Integrations
 
