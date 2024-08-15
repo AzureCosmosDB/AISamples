@@ -23,9 +23,6 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 - [Vector Search ](https://learn.microsoft.com/azure/cosmos-db/mongodb/vcore/vector-search)
 - [RAG Example](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/rag)
 
-
-
-
 ## Integrations
 
 **Azure Cosmos DB for NoSQL**
@@ -34,7 +31,7 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 - LangChain [Python](https://python.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmos_db_no_sql/), JS (Coming soon!)
 - LlamaIndex (Coming soon!)
 
-**vCore-based Azure Cosmos DB for NoSQL**
+**vCore-based Azure Cosmos DB for MongoDB**
 
 - Semantic Kernel [C#](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/src/Connectors/Connectors.Memory.AzureCosmosDBMongoDB), [Python](https://github.com/microsoft/semantic-kernel/tree/main/python/semantic_kernel/connectors/memory/azure_cosmosdb)
 - LangChain [Python](https://python.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmos_db/)
