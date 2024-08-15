@@ -6,16 +6,19 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 
 ## Documentation
 
-- Introduction
-  - [What is a vector database?](https://learn.microsoft.com/azure/cosmos-db/vector-database)
-  - [Vector Search in Azure Cosmos DB for NoSQL](https://learn.microsoft.com/azure/cosmos-db/nosql/vector-search)
-  - [Vector Search in Azure Cosmos DB for MongoDB](https://learn.microsoft.com/azure/cosmos-db/mongodb/vcore/vector-search)
-  - [Concepts Overview](https://learn.microsoft.com/azure/cosmos-db/gen-ai/vector-search-overview)
-- Getting started
-  - [C#](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-dotnet-vector-index-query)
-  - [Python](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-python-vector-index-query)
-  - [JavaScript](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-javascript-vector-index-query)
-  - [Java](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-java-vector-index-query)
+**Introduction**
+
+- [What is a vector database?](https://learn.microsoft.com/azure/cosmos-db/vector-database)
+- [Vector Search in Azure Cosmos DB for NoSQL](https://learn.microsoft.com/azure/cosmos-db/nosql/vector-search)
+- [Vector Search in Azure Cosmos DB for MongoDB](https://learn.microsoft.com/azure/cosmos-db/mongodb/vcore/vector-search)
+- [Concepts Overview](https://learn.microsoft.com/azure/cosmos-db/gen-ai/vector-search-overview)
+
+**Getting started**
+
+- [C#](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-dotnet-vector-index-query)
+- [Python](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-python-vector-index-query)
+- [JavaScript](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-javascript-vector-index-query)
+- [Java](https://learn.microsoft.com/azure/cosmos-db/nosql/how-to-java-vector-index-query)
 
 ## Integrations
 
