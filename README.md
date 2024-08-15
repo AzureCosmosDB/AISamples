@@ -1,4 +1,4 @@
-![Azure Cosmos DB for AI Apps](CosmosDBLogo.png?)
+![Azure Cosmos DB for AI Apps](CosmosDBLogo.png)
 
 #
 
