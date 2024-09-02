@@ -74,6 +74,11 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
     - Jupyter Notebook
     - Python gradio
     - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-NoSQL-Integrations/LangChain-CosmosDBNoSQL-AzureOpenAI.ipynb)
+- Serverless AI Chat with RAG using Langchain.js
+    - Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure Cosmos DB
+    - TypeScript
+    - LangChain
+    - [Code](https://github.com/Azure-Samples/serverless-chat-langchainjs)
 
 **vCore-based Azure Cosmos DB for MongoDB**
 
