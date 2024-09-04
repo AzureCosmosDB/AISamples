@@ -28,13 +28,14 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 **Azure Cosmos DB for NoSQL**
 
 - Semantic Kernel [C#](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/src/Connectors/Connectors.Memory.AzureCosmosDBNoSQL), [Python](https://github.com/microsoft/semantic-kernel/tree/main/python/semantic_kernel/connectors/memory/azure_cosmosdb_no_sql) 
-- LangChain [Python](https://python.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmos_db_no_sql/), JS (Coming soon!)
+- LangChain [Python](https://python.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmos_db_no_sql/) [JS](https://js.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmosdb_nosql/)
 - LlamaIndex (Coming soon!)
 
 **vCore-based Azure Cosmos DB for MongoDB**
 
 - Semantic Kernel [C#](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/src/Connectors/Connectors.Memory.AzureCosmosDBMongoDB), [Python](https://github.com/microsoft/semantic-kernel/tree/main/python/semantic_kernel/connectors/memory/azure_cosmosdb)
-- LangChain [Python](https://python.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmos_db/)
+- LangChain [Python](https://python.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmos_db/) [JS](https://js.langchain.com/v0.2/docs/integrations/vectorstores/azure_cosmosdb_mongodb/)
+
 - LlamaIndex [Python](https://docs.llamaindex.ai/en/stable/examples/vector_stores/AzureCosmosDBMongoDBvCoreDemo/)
 - PromptFlow plugin [Python](https://github.com/microsoft/pf-azuredb)
 
