@@ -79,6 +79,17 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
     - TypeScript
     - LangChain
     - [Code](https://github.com/Azure-Samples/serverless-chat-langchainjs)
+    - 
+- Simple Vector Search and RAG in Azure Cosmos DB for NoSQL
+    - Get started in this simple e2e solution using Azure OpenAI embeddings and a GPT-3.5 model for completions, and vector search in Azure Cosmos DB for NoSQL!
+    - Java
+    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/tree/main/Java/CosmosDB-NoSQL-VectorSearch)
+- Simple Vector Search and RAG in Azure Cosmos DB for NoSQL
+    - This sample shows how to build a ChatGPT like application in Spring and run on Azure Spring Apps with Azure Cosmos DB. The vector store in Azure Cosmos DB enables the application to use your private data to answer the questions.
+    - Java
+    - Azure Spring Apps
+    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/tree/main/Java/CosmosDB-NoSQL-RAG-Chatbot)
+
 
 **vCore-based Azure Cosmos DB for MongoDB**
 
