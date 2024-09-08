@@ -124,10 +124,11 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
   - Supports both Azure Cosmos DB for NoSQL and vCore-based Azure Cosmos DB for MongoDB
   - [Code](https://github.com/cjoakim/CosmosAIGraph)
   
-## Videos
+## Videos and other content
 
 **Azure Cosmos DB for NoSQL**
 
+- [RAGHack: Scalable RAG apps with Azure Cosmos DB for NoSQL](https://reactor.microsoft.com/en-us/reactor/events/23655/)
 - [What is the database behind ChatGPT? | Microsoft Mechanics](https://www.youtube.com/watch?v=6IIUtEFKJec)
 - [AI Semantic Search for Your Website with Azure Cosmos DB | Microsoft Mechanics](https://www.youtube.com/watch?v=3T0K61VbnFw)
 - [Vector Search using 95% Less Compute with DiskANN and Azure Cosmos DB | Microsoft Mechanics](https://www.youtube.com/watch?v=MlMPIYONvfQ)
@@ -143,6 +144,7 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 
 **vCore-based Azure Cosmos DB for MongoDB**
 
+- [RAGHack: Building RAG apps with Azure Cosmos DB for MongoDB](https://reactor.microsoft.com/en-us/reactor/events/23329/)
 - [What is vector search? - vCore-based Azure Cosmos DB for MongoDB](https://www.youtube.com/watch?v=1YRvqzxXu68)
 - [Applying GenAI and Azure Cosmos DB for MongoDB Vector Search to Interactive Analytics & Reporting](https://www.youtube.com/watch?v=-AynwwU7JUo)
 - [Build next gen intelligent retail with Azure OpenAI & vCore-based Azure Cosmos DB for MongoDB)](https://www.youtube.com/watch?v=6Qyl_pnIwh4)
