@@ -116,9 +116,12 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
     - Jupyter Notebook
     - Gradio
     - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-MongoDB-vCore-Integrations/LangChain-CosmosDBMongovCoreVectorSearch-AzureOpenAI.ipynb)
+   
+**Graph RAG**
 
-- CosmosAIGraph: AI-Powered Graph and Knowledge Graph Solutions with Azure Cosmos DB
+- CosmosAIGraph: An AI-Powered Graph and Knowledge Graph Solution with Azure Cosmos DB. Combine the power of baseline (vetor search) with the contextual and relationship data captured in  a knowledge graph to bring you RAG apps to the next level with Azure Cosmos DB.
   - Python
+  - Supports both Azure Cosmos DB for NoSQL and vCore-based Azure Cosmos DB for MongoDB
   - [Code](https://github.com/cjoakim/CosmosAIGraph)
   
 ## Videos
