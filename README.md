@@ -1,8 +1,13 @@
 ![Azure Cosmos DB for AI Apps](CosmosDBLogo.png)
 
-#
 
-This is the official hub for demos, code, tutorials, videos, and documentation for using Azure Cosmos DB to build fast, scalable, and cost-effective AI applications.
+
+## Our samples gallery has moved
+
+Please visit [aka.ms/AzureCosmosDB/Gallery/AI](https://aka.ms/AzureCosmosDB/Gallery/AI) for all official Azure Cosmos DB AI Samples.
+
+Below are some links to documentation and videos for our vector search capabilities.
+
 
 ## Documentation
 
@@ -45,86 +50,7 @@ This is the official hub for demos, code, tutorials, videos, and documentation f
 - [Introducing Vector Database capabilities in Azure Cosmos DB for NoSQL](https://devblogs.microsoft.com/cosmosdb/introducing-vector-database-capabilities-in-azure-cosmos-db-for-nosql/)
 - [Vector Database in vCore-based Azure Cosmos DB for MongoDB now GA!](https://devblogs.microsoft.com/cosmosdb/mongodb-vcore-vector-search/)
 
-## Code Samples
 
-**Azure Cosmos DB for NoSQL**
-
-- Build a Copilot sample app
-  - This sample application shows how to build a Generative-AI application using Azure Cosmos DB for NoSQL using its new vector search capabilities and Azure OpenAI Service and Semantic Kernel. The sample provides practical guidance on many concepts you will need to design and build these types of applications.
-    - Azure App Service
-    - C#, Native SDK, Semantic Kernel
-    - [Sample App](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot)
-    - [Hands on Lab](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot/tree/start)
-- Build a Copilot sample app - Azure Cosmos DB for MongoDB
-  - This sample application shows how to build a Generative-AI application using Azure Cosmos DB for MongoDB using its  vector search capabilities and Azure OpenAI Service and Semantic Kernel. The sample provides practical guidance on many concepts you will need to design and build these types of applications.
-    - Azure App Service
-    - C#, Native SDK, Semantic Kernel
-    - [Sample App](https://github.com/AzureCosmosDB/cosmosdb-mongo-copilot)
-    - [Hands on Lab](https://github.com/AzureCosmosDB/cosmosdb-mongo-copilot/tree/start)
-- Build your own Copilot End to End Solution Accelerator
-  - Production Ready Reference Solution for how to build your own copilot using Azure services including: Azure Cosmos DB for NoSQL, Azure OpenAI Service, Azure Kubernetes Service or Azure Container Apps. Uses Semantic Kernel plugins for OpenAI, Cosmos DB connectors, and semantic cache. Built in C#.
-    - AKS or ACA, Container Registry, Managed Identity, Key Vault, Log Analytics, Azure Monitor
-    - [Solution Accelerator](https://github.com/Azure/buildyourowncopilot)
-    - [Hackathon Workshop](https://github.com/microsoft/WhatTheHack)
-- Movie ChatBot for Azure Cosmos DB for NoSQL
-  - In this sample, we'll demonstrate how to build a RAG (Retrieval Augmented Generation) pattern application using a subset of the popular Movie Lens 1M dataset. This sample performs RAG over movie data with vector search, stores conversational chat history, and leverages a semantic cache, all using Azure Cosmos DB and its built-in vector search capability. Azure OpenAI Service is used to generate embeddings and LLM completions.
-    - Jupyter Notebook
-    - Python
-    - [Sample App](https://github.com/AzureCosmosDB/Fabric-Conf-2024-Build-AI-Apps)
-- LangChain integration with Azure Cosmos DB for NoSQL
-  - This sample shows ingesting PDF's into Azure Cosmos DB for NoSQL and doing vector similarity search (RAG Pattern) using Langchain.
-    - Jupyter Notebook
-    - Python gradio
-    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-NoSQL-Integrations/LangChain-CosmosDBNoSQL-AzureOpenAI.ipynb)
-- Serverless AI Chat with RAG using Langchain.js
-    - Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure Cosmos DB
-    - TypeScript
-    - LangChain
-    - [Code](https://github.com/Azure-Samples/serverless-chat-langchainjs)
-    - 
-- Simple Vector Search and RAG in Azure Cosmos DB for NoSQL
-    - Get started in this simple e2e solution using Azure OpenAI embeddings and a GPT-3.5 model for completions, and vector search in Azure Cosmos DB for NoSQL!
-    - Java
-    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/tree/main/Java/CosmosDB-NoSQL-VectorSearch)
-- Simple Vector Search and RAG in Azure Cosmos DB for NoSQL
-    - This sample shows how to build a ChatGPT like application in Spring and run on Azure Spring Apps with Azure Cosmos DB. The vector store in Azure Cosmos DB enables the application to use your private data to answer the questions.
-    - Java
-    - Azure Spring Apps
-    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/tree/main/Java/CosmosDB-NoSQL-RAG-Chatbot)
-
-
-**vCore-based Azure Cosmos DB for MongoDB**
-
-- Movie ChatBot for Azure Cosmos DB for MongoDB
-  - In this sample, we'll demonstrate how to build a RAG (Retrieval Augmented Generation) pattern application using a subset of the popular Movie Lens 1M dataset. This sample performs RAG over movie data with vector search, stores conversational chat history, and leverages a semantic cache, all using Azure Cosmos DB and its built-in vector search capability. Azure OpenAI Service is used to generate embeddings and LLM completions.
-    - Jupyter Notebook
-    - Python
-    - [Sample App](https://github.com/AzureCosmosDB/Fabric-Conf-2024-Build-AI-Apps)
-
-- Cosmic RAG Food app with Langchain, Azure OpenAI and Azure Cosmos DB for MongoDB (vCore)
-  - A Demo application for a streamlined ordering system tailored for various food categories. It allows users to request customized meals, such as "high protein dishes," with recommendations provided from our database. Users can further customize their choices before sending their orders from the app to the restaurant, including delivery details.
-    - Jupyter Notebook
-    - Web app
-    - [Code](https://github.com/Azure-Samples/Cosmic-Food-RAG-app)
-- Advertisement generation with Azure OpenAI and vCore-based Azure Cosmos DB for MongoDB
-  - This project demonstrates the use of Azure Cosmos DB's vCore's vector similarity search and OpenAI embeddings to generate advertising content aimed at boosting sales. It is particularly tailored for a shoe retailer looking to leverage recent trends for effective advertising.
-    - Jupyter Notebook
-    - Python gradio
-    - [Code](https://aka.ms/adgen)
-
-- LangChain integration with vCore-based Azure Cosmos DB for MongoDB
-  - This sample shows ingesting PDF's into Azure Cosmos DB and doing vector similarity search (RAG Pattern) using Langchain.
-    - Jupyter Notebook
-    - Gradio
-    - [Code](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-MongoDB-vCore-Integrations/LangChain-CosmosDBMongovCoreVectorSearch-AzureOpenAI.ipynb)
-   
-**Graph RAG**
-
-- CosmosAIGraph: An AI-Powered Graph and Knowledge Graph Solution with Azure Cosmos DB. Combine the power of baseline (vetor search) with the contextual and relationship data captured in  a knowledge graph to bring you RAG apps to the next level with Azure Cosmos DB.
-  - Python
-  - Supports both Azure Cosmos DB for NoSQL and vCore-based Azure Cosmos DB for MongoDB
-  - [Code](https://github.com/cjoakim/CosmosAIGraph)
-  
 ## Videos and other content
 
 **Azure Cosmos DB for NoSQL**
